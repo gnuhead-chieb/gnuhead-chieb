@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My translation contributions:
+## My translation contributions:
 
 https://github.com/evilsocket/opensnitch
 
@@ -57,7 +57,7 @@ https://f-droid.org/en/
 
 https://framagit.org/fiat-tux/hat-softwares/lufi
 
-My other contributions:
+## My other contributions:
 
 Exodus ETIP
 
@@ -66,3 +66,7 @@ https://gitlab.com/IzzyOnDroid/repo
 https://github.com/MuntashirAkon/AppManager/issues?q=is%3Apr+author%3Agnuhead-chieb
 
 https://github.com/leachim6/hello-world/issues?q=is%3Apr+author%3Agnuhead-chieb
+
+## My favorite language
+・Bash
+・PHP
