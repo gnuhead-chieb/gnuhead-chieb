@@ -57,6 +57,8 @@ https://f-droid.org/en/
 
 https://framagit.org/fiat-tux/hat-softwares/lufi
 
+https://github.com/Keidan/HexViewer
+
 ## My other contributions:
 
 Exodus ETIP
