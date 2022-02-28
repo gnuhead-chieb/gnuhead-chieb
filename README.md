@@ -7,7 +7,7 @@
 <a href="https://www.torproject.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/1280px-Tor-logo-2011-flat.svg.png" width="20%" height="20%"></a>
 <a href="https://ukraine.ua/news/stand-with-ukraine/"><img src="https://ukraine.ua/wp-content/uploads/2022/02/linktree.png" width="30%" height="30%"></a>
 <a href="https://www.youtube.com/watch?v=qZuxPKUVGiw"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftbli.nl%2Fwp-content%2Fuploads%2F2020%2F06%2Fblacklivesmatter-1-e1592935150949.jpg&f=1&nofb=1" width="25%" height="25%"></a>
-<a href="https://www.youtube.com/watch?v=qZuxPKUVGiw"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fteepublic%2Fimage%2Fprivate%2Fs--k2rEqGp---%2Ft_Preview%2Ft_watermark_lock%2Fb_rgb%3A0195c3%2Cc_lpad%2Cf_jpg%2Ch_630%2Cq_90%2Cw_1200%2Fv1588901666%2Fproduction%2Fdesigns%2F9912719_0.jpg&f=1&nofb=1" width="25%" height="25%"></a>
+<a href="https://www.freedomunited.org/advocate/free-uyghurs/"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fteepublic%2Fimage%2Fprivate%2Fs--k2rEqGp---%2Ft_Preview%2Ft_watermark_lock%2Fb_rgb%3A0195c3%2Cc_lpad%2Cf_jpg%2Ch_630%2Cq_90%2Cw_1200%2Fv1588901666%2Fproduction%2Fdesigns%2F9912719_0.jpg&f=1&nofb=1" width="25%" height="25%"></a>
 
 
 ## My translation contributions:
