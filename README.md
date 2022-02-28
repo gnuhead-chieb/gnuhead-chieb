@@ -5,6 +5,7 @@
 <a href="https://ssd.eff.org/"><img src="https://www.eff.org/files/banner_library/og-ssd-logo.png" width="30%" height="30%"></a>
 <a href="https://www.torproject.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/1280px-Tor-logo-2011-flat.svg.png" width="20%" height="20%"></a>
 <a href="https://ukraine.ua/news/stand-with-ukraine/"><img src="https://ukraine.ua/wp-content/uploads/2022/02/linktree.png" width="30%" height="30%"></a>
+<a href="https://www.youtube.com/watch?v=qZuxPKUVGiw"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftbli.nl%2Fwp-content%2Fuploads%2F2020%2F06%2Fblacklivesmatter-1-e1592935150949.jpg&f=1&nofb=1" width="25%" height="25%"></a>
 
 ## My translation contributions:
 
