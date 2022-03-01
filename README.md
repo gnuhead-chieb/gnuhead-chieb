@@ -54,6 +54,8 @@ https://framagit.org/fiat-tux/hat-softwares/lufi
 
 https://github.com/Keidan/HexViewer
 
+https://github.com/quickemu-project/quickgui
+
 ## My other contributions:
 
 Exodus ETIP
